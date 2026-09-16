@@ -1,0 +1,12 @@
+{
+  "status": "missing_canonical_data",
+  "verified": false,
+  "summary": "No authoritative ETHUSDT candle CSV archive or validation artifact was present in the provided repository snapshot. This report is a placeholder and does not certify any data quality.",
+  "artifacts": {
+    "ethusdt_csvs": [],
+    "data_py": "present",
+    "download_candles_py": "present",
+    "validation_report_json": "present"
+  },
+  "next_step": "Restore the canonical archive or authoritative repo snapshot before validation or trading use."
+}
